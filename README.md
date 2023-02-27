@@ -1,9 +1,13 @@
 # Workout-App
 
--> Implemented a full-stack application that allows CRUD operations.
--> Structured front-end and back-end procedures using the MERN stack.
--> Developed a RESTful API to perform HTTP requests using the JSON format.
+Full-stack application made to track a workout. The app support CRUD operations utilizing a RESTful API to perform HTTP requests using the JSON format.",
+  techstack:"Javascript, HTML, CSS, MongoDB, Express, React.js, Node.js.
+
 
 Tech Stack: MongoDB, Express, React.js, Node.js
+
+
+Note: The app is not deployed online yet. I have to run in on localhost for it to work.
+
 
 
